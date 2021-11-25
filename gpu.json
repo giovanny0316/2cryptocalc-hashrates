@@ -890,6 +890,33 @@
             "Autolykos2": 115
         }
     },
+     {
+        "id": "3060 LHR",
+        "name": "3060 LHR",
+        "marketing_name": "Nvidia GeForce RTX 3060 LHR V2",
+        "vendor": "nvidia",
+        "ramSize": [12288],
+        "price": 329,
+        "secondHand": false,
+        "algos": {
+            "Cuckarood29": null,
+            "Cuckatoo31": null,
+            "Cuckatoo32": null,
+            "CuckooCycle": null,
+            "CuckooCortex": null,
+            "Equihash": null,
+            "Equihash 125_4": null,
+            "Equihash 144_5": null,
+            "BeamHash": null,
+            "Ethash": 35,
+            "Etchash": 35,
+            "FiroPoW": 22.70,
+            "KAWPOW": 22.70,
+            "RandomX": null,
+            "Eaglesong": null,
+            "Autolykos2": 115
+        }
+    },
     {
         "id": "3060Ti",
         "name": "3060Ti",
